@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+.box {
+    width: 300px;
+    padding: 20px;
+    margin: 20px auto;
+    font-size: 20px;
+}
+
+.solid {
+    border: 5px solid blue;
+}
+
+.dashed {
+    border: 5px dashed red;
+}
+
+.dotted {
+    border: 5px dotted green;
+    border-radius: 20px;
+}
+
+.double {
+    border: 8px double purple;
+}
+
+.groove {
+    border: 8px groove orange;
+}
+
+.ridge {
+    border: 8px ridge brown;
+    border-radius: 20px;
+}

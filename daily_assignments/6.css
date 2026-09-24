@@ -1,0 +1,34 @@
+@font-face {
+    font-family: MyFont;
+    src: url("myfont.ttf");
+}
+
+.heading1 {
+    font-family: Arial;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.heading2 {
+    font-family: Georgia;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.heading3 {
+    font-family: "Courier New";
+    font-weight: bold;
+    font-style: normal;
+}
+
+.heading4 {
+    font-family: Verdana;
+    font-weight: lighter;
+    font-style: oblique;
+}
+
+.heading5 {
+    font-family: MyFont;
+    font-weight: bold;
+    font-style: normal;
+}

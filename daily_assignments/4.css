@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+.margin {
+    background-color: lightgreen;
+    margin: 50px;
+    padding: 20px;
+}
+
+.border {
+    background-color: lightcoral;
+    border: 10px solid red;
+    padding: 20px;
+}
+
+.padding {
+    background-color: lightblue;
+    padding: 30px;
+}
+
+.content {
+    background-color: yellow;
+    padding: 30px;
+    font-size: 20px;
+}
